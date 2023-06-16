@@ -1,0 +1,37 @@
+.number{
+    color:red;
+    font-size: larger;
+    /* background-color: aqua; */
+}
+
+body{
+    background-color: rgb(193, 183, 183);
+}
+
+article{
+    box-sizing: border-box;
+    max-width: 400px;
+    height: 100px;
+    background: white;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding:20px;
+}
+
+.container{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.color{
+    background-color: red;
+    width: 300px;
+    height: 5px;
+}
+
+p{
+    font-size:17px;
+}
